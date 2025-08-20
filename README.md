@@ -11,6 +11,6 @@ This project trains an AI to control a self-driving bike in a simulated environm
 
 4. PPO_Testing.py: A script to see a trained AI in action. It loads a saved model and lets you watch the bike navigate the environment.
 
-How It Works
+## How It Works
 
 The AI learns through trial and error. It gets a reward for doing good things (like moving forward quickly) and a penalty for bad things (like crashing or going off-road). The PPO algorithm helps the AI figure out which actions lead to the best rewards over time.
