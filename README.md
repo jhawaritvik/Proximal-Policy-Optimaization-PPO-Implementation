@@ -1,4 +1,4 @@
-# Proximal-Policy-Optimaization-PPO-Implementation
+# Proximal-Policy-Optimization-PPO-Implementation
 
 This project trains an AI to control a self-driving bike in a simulated environment using the Proximal Policy Optimization (PPO) algorithm. The goal is for the bike to learn how to navigate a road and avoid obstacles.
 ## Files
